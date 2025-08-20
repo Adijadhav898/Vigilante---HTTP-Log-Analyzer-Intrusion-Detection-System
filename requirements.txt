@@ -1,0 +1,16 @@
+# Vigilante - HTTP Log Analyzer & IDS
+# Core Dependencies
+
+# The tool uses only Python's standard library.
+# No external packages are required!
+
+# Required Python version: 3.6+
+# The following are all part of Python's standard library:
+# - re
+# - time
+# - argparse
+# - sys
+# - collections
+# - datetime
+
+# This is a zero-dependency project for easy deployment and security.
